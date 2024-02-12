@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "ics-321-project",
+    "DBics321": "ics-321-project"
+  },
+  "targets": {},
+  "etags": {}
+}
